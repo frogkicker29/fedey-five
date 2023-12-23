@@ -1,5 +1,5 @@
 /obj/item/gun/energy/pulse
-	name = "pulse rifle"
+	name = "golden scar"
 	desc = "A heavy-duty, multifaceted energy rifle with three modes. Preferred by front-line combat personnel."
 	icon_state = "pulse"
 	inhand_icon_state = null

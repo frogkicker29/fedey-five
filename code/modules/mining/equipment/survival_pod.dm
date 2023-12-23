@@ -1,6 +1,6 @@
 /*****************************Survival Pod********************************/
 /area/misc/survivalpod
-	name = "\improper Emergency Shelter"
+	name = "\improper Port A Fort"
 	icon_state = "away"
 	static_lighting = TRUE
 	requires_power = FALSE
@@ -10,7 +10,7 @@
 
 //Survival Capsule
 /obj/item/survivalcapsule
-	name = "bluespace shelter capsule"
+	name = "port a fort"
 	desc = "An emergency shelter stored within a pocket of bluespace."
 	icon_state = "capsule"
 	icon = 'icons/obj/mining.dmi'
@@ -70,17 +70,17 @@
 //Non-default pods
 
 /obj/item/survivalcapsule/luxury
-	name = "luxury bluespace shelter capsule"
+	name = "blue port a fort"
 	desc = "An exorbitantly expensive luxury suite stored within a pocket of bluespace."
 	template_id = "shelter_beta"
 
 /obj/item/survivalcapsule/luxuryelite
-	name = "luxury elite bar capsule"
+	name = "purple port a fort"
 	desc = "A luxury bar in a capsule. Bartender required and not included."
 	template_id = "shelter_charlie"
 
 /obj/item/survivalcapsule/bathroom
-	name = "emergency relief capsule"
+	name = "gold port a fort"
 	desc = "Provides vital emergency support to employees who are caught short in the field."
 	template_id = "shelter_toilet"
 
